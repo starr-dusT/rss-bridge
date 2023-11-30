@@ -1,5 +1,6 @@
 # Contributors
 
+* [starr-dusT](https://github.com/starr-dusT)
 * [16mhz](https://github.com/16mhz)
 * [adamchainz](https://github.com/adamchainz)
 * [Ahiles3005](https://github.com/Ahiles3005)
